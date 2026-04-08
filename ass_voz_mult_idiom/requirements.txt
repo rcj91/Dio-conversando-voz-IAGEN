@@ -1,0 +1,8 @@
+openai
+openai-whisper
+gTTS
+sounddevice
+scipy
+python-dotenv
+ipython
+jupyter
