@@ -85,11 +85,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias e bibliotecas:
 - **python-dotenv** — leitura de variáveis de ambiente
 - **VS Code** — ambiente de desenvolvimento
 
+---
 
 ## 📂 Descrição dos módulos
 app/main.py
 
-Arquivo principal responsável por coordenar o fluxo completo da aplicação.
+- Arquivo principal responsável por coordenar o fluxo completo da aplicação.
 
 app/audio/recorder.py
 
@@ -144,6 +145,8 @@ um arquivo com o histórico completo das interações.
 6. Conversão para voz
 
 A resposta do agente é convertida em áudio .mp3, permitindo que o usuário também escute a receita sugerida.
+
+---
 
 ## 🧠 Prompt do agente
 
